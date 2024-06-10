@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "T-shirt",
+        "price": 20,
+        "description": "Comfortable cotton T-shirt",
+        "image": "https://www.w3schools.com/html/images/13_html_images.png"
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "price": 40,
+        "description": "Classic blue jeans",
+        "image": "https://www.w3schools.com/html/images/13_html_images.png"
+    },
+    {
+        "id": 3,
+        "name": "Sneakers",
+        "price": 50,
+        "description": "Stylish sneakers for everyday wear",
+        "image": "https://www.w3schools.com/html/images/13_html_images.png"
+    },
+    {
+        "id": 4,
+        "name": "Backpack",
+        "price": 30,
+        "description": "Durable backpack for travel or school",
+        "image": "https://www.w3schools.com/html/images/13_html_images.png"
+    }
+]
